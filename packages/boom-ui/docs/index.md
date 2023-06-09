@@ -14,10 +14,10 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/
+      link: '/components/layout'
     - theme: alt
       text: Learn More
-      link: /guide/
+      link: '/components/layout'
 
 features:
   - icon: ⚡️
